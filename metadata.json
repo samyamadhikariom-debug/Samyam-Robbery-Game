@@ -1,0 +1,6 @@
+{
+  "name": "Street Heat: 2D City Heist & Police Pursuit",
+  "description": "Retro top-down open-world 2D GTA crime action game. Rob convenience stores and banks, steal cars, evade escalating 1-5 star police chases, and stash your dirty cash safely in your hideout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
